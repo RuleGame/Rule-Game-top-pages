@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" version="1.1">
+<polygon points="20 1  32 39  0 16  40 16  8 39" fill="red"/>
+<circle cx="60" cy="20" r="20" fill="green"/>
+<rect x="0" y="40" width="40" height="40" fill="green"/>
+<polygon points="60 43  80 77  40 77" fill="blue"/>
+</svg>
