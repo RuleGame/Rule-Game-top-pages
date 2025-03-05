@@ -1,4 +1,5 @@
 For [markdown syntax](https://www.markdownguide.org/basic-syntax/)
+Can we use two tilde's around ~~strikethrough~~ when something moves from one stage to another?
 # Ideas
   - compute the difficulty of a rule from the EV score *PK*    
   - compute transfer among rules, using change in difficulty *PK*    
