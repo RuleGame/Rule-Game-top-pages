@@ -1,3 +1,4 @@
+For [markdowwn syntax](https://www.markdownguide.org/basic-syntax/)
 # Ideas
   - compute the difficulty of a rule from the EV score *PK*    
   - compute transfer among rules, using change in difficulty *PK*    
