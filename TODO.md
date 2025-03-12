@@ -13,6 +13,10 @@ Can we use two tilde's around ~~strikethrough~~ when something moves from one st
 ---
 # in process - list start date please
 
+develop pilot connection to Gemini using its API 3/11/2025  
+modifications to the board generator 3/11/2025  
+  --  a. provide a mask so that users can specify that pieces are only placed on selected cells.  
+  --  b. include for each object on the board, an Id value (Id2) which is not associated with the cell number.  
 ---
 # done - list completion date 
 
