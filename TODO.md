@@ -12,14 +12,18 @@ Can we use two tilde's around ~~strikethrough~~ when something moves from one st
 # to be done
 
 ---
-# in process - list start date please
+# in process - list start date please #
 
 develop pilot connection to Gemini using its API 3/11/2025  
 modifications to the board generator 3/11/2025  
-  --  a. provide a mask so that users can specify that pieces are only placed on selected cells.  
+  --  a. DONE	  
   --  b. include for each object on the board, an Id value (Id2) which is not associated with the cell number.  
 ---
 # done - list completion date 
 
 ---
 # checked - list checked date
+
+modifications to the board generator 3/11/2025  
+  --  a. provide a mask so that users can specify that pieces are only placed on selected cells.  
+      This has been done with a more efficient implementation of the generation process. 3/15/2025 and checked (by PK) 3/18. 
